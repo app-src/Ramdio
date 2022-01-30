@@ -1,5 +1,5 @@
 
-# Reason for not providing the source code:\
+# Reason for not providing the source code:
 First, it's a mess\
 Second, I have ripped bread and butter of some companies and I don't promote that so  yes... Sorry\
 
